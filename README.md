@@ -45,3 +45,7 @@ O projeto consiste em uma página de links centralizada, similar ao Linktree, qu
  
 
 Não há necessidade de instalação de dependências.
+
+## Link
+
+https://portfolio-gti.vercel.app/
